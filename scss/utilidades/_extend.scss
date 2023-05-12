@@ -1,0 +1,12 @@
+// variables
+@import "../utilidades/variables";
+
+%tarjeta-ofertas{
+    background-color: white;
+    border-radius: $border-radius-standard;
+}
+
+%borde-contacto{
+    border-style: none;
+    border-radius: 5px;
+}
