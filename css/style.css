@@ -4,17 +4,9 @@
   padding: 0;
   box-sizing: border-box; }
 
-.ofertas a img, .productosOfertas img {
-  background-color: white;
-  border-radius: 15px; }
-
 .formDatos input, .btnEnviar input, #text {
   border-style: none;
   border-radius: 5px; }
-
-.ofertas a img, .productosOfertas img {
-  background-color: white;
-  border-radius: 15px; }
 
 .formDatos input, .btnEnviar input, #text {
   border-style: none;
@@ -85,17 +77,9 @@ p {
     border-radius: 15px;
     box-shadow: 2px 2px 5px 1px rgba(255, 255, 255, 0.1); }
 
-.ofertas a img, .productosOfertas img {
-  background-color: white;
-  border-radius: 15px; }
-
 .formDatos input, .btnEnviar input, #text {
   border-style: none;
   border-radius: 5px; }
-
-.ofertas a img, .productosOfertas img {
-  background-color: white;
-  border-radius: 15px; }
 
 .formDatos input, .btnEnviar input, #text {
   border-style: none;
@@ -120,17 +104,9 @@ header {
       text-decoration: none;
       color: #ffffff; }
 
-.ofertas a img, .productosOfertas img {
-  background-color: white;
-  border-radius: 15px; }
-
 .formDatos input, .btnEnviar input, #text {
   border-style: none;
   border-radius: 5px; }
-
-.ofertas a img, .productosOfertas img {
-  background-color: white;
-  border-radius: 15px; }
 
 .formDatos input, .btnEnviar input, #text {
   border-style: none;
@@ -149,7 +125,9 @@ header {
   .ofertas a img {
     width: 100%;
     height: 85%;
-    object-fit: cover; }
+    object-fit: cover;
+    background-color: white;
+    border-radius: 15px; }
 
 .off {
   color: #e30613; }
@@ -166,17 +144,9 @@ header {
 .productoCinco {
   display: none; }
 
-.ofertas a img, .productosOfertas img {
-  background-color: white;
-  border-radius: 15px; }
-
 .formDatos input, .btnEnviar input, #text {
   border-style: none;
   border-radius: 5px; }
-
-.ofertas a img, .productosOfertas img {
-  background-color: white;
-  border-radius: 15px; }
 
 .formDatos input, .btnEnviar input, #text {
   border-style: none;
@@ -210,17 +180,9 @@ footer {
   align-items: center;
   gap: 2rem; }
 
-.ofertas a img, .productosOfertas img {
-  background-color: white;
-  border-radius: 15px; }
-
 .formDatos input, .btnEnviar input, #text {
   border-style: none;
   border-radius: 5px; }
-
-.ofertas a img, .productosOfertas img {
-  background-color: white;
-  border-radius: 15px; }
 
 .formDatos input, .btnEnviar input, #text {
   border-style: none;
@@ -257,34 +219,18 @@ footer {
   .bannerSecundarioTitulo h1 {
     font-size: 2rem; }
 
-.ofertas a img, .productosOfertas img {
-  background-color: white;
-  border-radius: 15px; }
-
 .formDatos input, .btnEnviar input, #text {
   border-style: none;
   border-radius: 5px; }
-
-.ofertas a img, .productosOfertas img {
-  background-color: white;
-  border-radius: 15px; }
 
 .formDatos input, .btnEnviar input, #text {
   border-style: none;
   border-radius: 5px; }
 
 /* estilo productos */
-.ofertas a img, .productosOfertas img {
-  background-color: white;
-  border-radius: 15px; }
-
 .formDatos input, .btnEnviar input, #text {
   border-style: none;
   border-radius: 5px; }
-
-.ofertas a img, .productosOfertas img {
-  background-color: white;
-  border-radius: 15px; }
 
 .formDatos input, .btnEnviar input, #text {
   border-style: none;
@@ -303,6 +249,8 @@ footer {
   display: inline-block;
   margin-bottom: 20px; }
   .productosOfertas img {
+    background-color: white;
+    border-radius: 15px;
     padding: 10px;
     margin: 10px 5px 10px 0px; }
 
@@ -311,17 +259,9 @@ footer {
   text-decoration: line-through;
   font-size: 12px; }
 
-.ofertas a img, .productosOfertas img {
-  background-color: white;
-  border-radius: 15px; }
-
 .formDatos input, .btnEnviar input, #text {
   border-style: none;
   border-radius: 5px; }
-
-.ofertas a img, .productosOfertas img {
-  background-color: white;
-  border-radius: 15px; }
 
 .formDatos input, .btnEnviar input, #text {
   border-style: none;
@@ -335,17 +275,9 @@ footer {
 .nosotros h2 {
   margin-bottom: 1rem; }
 
-.ofertas a img, .productosOfertas img {
-  background-color: white;
-  border-radius: 15px; }
-
 .formDatos input, .btnEnviar input, #text {
   border-style: none;
   border-radius: 5px; }
-
-.ofertas a img, .productosOfertas img {
-  background-color: white;
-  border-radius: 15px; }
 
 .formDatos input, .btnEnviar input, #text {
   border-style: none;
@@ -382,17 +314,9 @@ footer {
   height: 100px;
   padding: 1rem; }
 
-.ofertas a img, .productosOfertas img {
-  background-color: white;
-  border-radius: 15px; }
-
 .formDatos input, .btnEnviar input, #text {
   border-style: none;
   border-radius: 5px; }
-
-.ofertas a img, .productosOfertas img {
-  background-color: white;
-  border-radius: 15px; }
 
 .formDatos input, .btnEnviar input, #text {
   border-style: none;
@@ -417,17 +341,9 @@ footer {
 .descripcionDeLaRemera {
   padding: 1rem; }
 
-.ofertas a img, .productosOfertas img {
-  background-color: white;
-  border-radius: 15px; }
-
 .formDatos input, .btnEnviar input, #text {
   border-style: none;
   border-radius: 5px; }
-
-.ofertas a img, .productosOfertas img {
-  background-color: white;
-  border-radius: 15px; }
 
 .formDatos input, .btnEnviar input, #text {
   border-style: none;
@@ -513,17 +429,9 @@ footer {
     bottom: 5%;
     left: 90%; } }
 
-.ofertas a img, .productosOfertas img {
-  background-color: white;
-  border-radius: 15px; }
-
 .formDatos input, .btnEnviar input, #text {
   border-style: none;
   border-radius: 5px; }
-
-.ofertas a img, .productosOfertas img {
-  background-color: white;
-  border-radius: 15px; }
 
 .formDatos input, .btnEnviar input, #text {
   border-style: none;
