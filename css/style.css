@@ -4,14 +4,6 @@
   padding: 0;
   box-sizing: border-box; }
 
-.formDatos input, .btnEnviar input, #text {
-  border-style: none;
-  border-radius: 5px; }
-
-.formDatos input, .btnEnviar input, #text {
-  border-style: none;
-  border-radius: 5px; }
-
 /* estilos generales */
 html {
   font-family: 'Roboto', sans-serif; }
@@ -77,14 +69,6 @@ p {
     border-radius: 15px;
     box-shadow: 2px 2px 5px 1px rgba(255, 255, 255, 0.1); }
 
-.formDatos input, .btnEnviar input, #text {
-  border-style: none;
-  border-radius: 5px; }
-
-.formDatos input, .btnEnviar input, #text {
-  border-style: none;
-  border-radius: 5px; }
-
 /* estilos header*/
 header {
   background-color: #e30613;
@@ -103,14 +87,6 @@ header {
     header nav ul li a {
       text-decoration: none;
       color: #ffffff; }
-
-.formDatos input, .btnEnviar input, #text {
-  border-style: none;
-  border-radius: 5px; }
-
-.formDatos input, .btnEnviar input, #text {
-  border-style: none;
-  border-radius: 5px; }
 
 /* estilos index */
 /* Nuevos Lanzamientos */
@@ -144,14 +120,6 @@ header {
 .productoCinco {
   display: none; }
 
-.formDatos input, .btnEnviar input, #text {
-  border-style: none;
-  border-radius: 5px; }
-
-.formDatos input, .btnEnviar input, #text {
-  border-style: none;
-  border-radius: 5px; }
-
 /* footer */
 footer {
   background-color: #e30613;
@@ -179,14 +147,6 @@ footer {
   display: flex;
   align-items: center;
   gap: 2rem; }
-
-.formDatos input, .btnEnviar input, #text {
-  border-style: none;
-  border-radius: 5px; }
-
-.formDatos input, .btnEnviar input, #text {
-  border-style: none;
-  border-radius: 5px; }
 
 /* estilos banner */
 .bannerPrincipal {
@@ -219,23 +179,7 @@ footer {
   .bannerSecundarioTitulo h1 {
     font-size: 2rem; }
 
-.formDatos input, .btnEnviar input, #text {
-  border-style: none;
-  border-radius: 5px; }
-
-.formDatos input, .btnEnviar input, #text {
-  border-style: none;
-  border-radius: 5px; }
-
 /* estilo productos */
-.formDatos input, .btnEnviar input, #text {
-  border-style: none;
-  border-radius: 5px; }
-
-.formDatos input, .btnEnviar input, #text {
-  border-style: none;
-  border-radius: 5px; }
-
 /* estilo ofertas */
 .ofertasOfertas {
   height: 125vh;
@@ -259,14 +203,6 @@ footer {
   text-decoration: line-through;
   font-size: 12px; }
 
-.formDatos input, .btnEnviar input, #text {
-  border-style: none;
-  border-radius: 5px; }
-
-.formDatos input, .btnEnviar input, #text {
-  border-style: none;
-  border-radius: 5px; }
-
 /*estilos nosotros*/
 .nosotros {
   text-align: center;
@@ -274,10 +210,6 @@ footer {
 
 .nosotros h2 {
   margin-bottom: 1rem; }
-
-.formDatos input, .btnEnviar input, #text {
-  border-style: none;
-  border-radius: 5px; }
 
 .formDatos input, .btnEnviar input, #text {
   border-style: none;
@@ -314,14 +246,6 @@ footer {
   height: 100px;
   padding: 1rem; }
 
-.formDatos input, .btnEnviar input, #text {
-  border-style: none;
-  border-radius: 5px; }
-
-.formDatos input, .btnEnviar input, #text {
-  border-style: none;
-  border-radius: 5px; }
-
 /*estilos remeras*/
 .remeraYDescripcion {
   display: grid;
@@ -340,14 +264,6 @@ footer {
 
 .descripcionDeLaRemera {
   padding: 1rem; }
-
-.formDatos input, .btnEnviar input, #text {
-  border-style: none;
-  border-radius: 5px; }
-
-.formDatos input, .btnEnviar input, #text {
-  border-style: none;
-  border-radius: 5px; }
 
 /* mq tablet */
 @media screen and (min-width: 600px) {
@@ -428,14 +344,6 @@ footer {
     position: sticky;
     bottom: 5%;
     left: 90%; } }
-
-.formDatos input, .btnEnviar input, #text {
-  border-style: none;
-  border-radius: 5px; }
-
-.formDatos input, .btnEnviar input, #text {
-  border-style: none;
-  border-radius: 5px; }
 
 /* mq desktop */
 @media screen and (min-width: 1024px) {
